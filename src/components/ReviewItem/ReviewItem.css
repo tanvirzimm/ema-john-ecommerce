@@ -1,0 +1,16 @@
+.review-item{
+    border-bottom: 1px solid gray;
+    margin-bottom:10px;
+    margin-left: 200px;
+    padding-bottom: 10px;
+}
+
+
+.review-item h1{
+    font-size: 20px;
+}
+
+
+.name{
+    color:blue;
+}

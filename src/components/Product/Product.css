@@ -1,0 +1,12 @@
+.product{
+    display: flex;
+}
+
+.main-button{
+    background-color: goldenrod;
+    width:150px;
+    height: 40px;
+    border: 1px solid gray;
+    color:black;
+    border-radius: 5px;
+}
